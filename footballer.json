@@ -8,11 +8,11 @@
     "position": "RW",
     "age": 22,
     "shirt_number": 7,
-    "photo_url": "https://img.a.transfermarkt.technology/portrait/medium/433177-1684155052.jpg?lm=1",
-    "flag_url": "https://tmssl.akamaized.net/images/flagge/verysmall/189.png?lm=1520611569",
-    "team_photo_url": "https://tmssl.akamaized.net/images/wappen/head/11.png?lm=1489787850"
+    "photo_url": "https://img.a.transfermarkt.technology/portrait/medium/433177-1684155052.jpg",
+    "flag_url": "https://tmssl.akamaized.net/images/flagge/verysmall/189.png",
+    "team_photo_url": "https://tmssl.akamaized.net/images/wappen/head/11.png"
   },
-   {
+  {
     "id": 2,
     "name": "Declan Rice",
     "team": "Arsenal",
@@ -21,9 +21,9 @@
     "position": "DM",
     "age": 25,
     "shirt_number": 41,
-    "photo_url": "https://img.a.transfermarkt.technology/portrait/medium/357662-1687962936.jpg?lm=1",
-    "flag_url": "https://tmssl.akamaized.net/images/flagge/verysmall/189.png?lm=1520611569",
-    "team_photo_url": "https://tmssl.akamaized.net/images/wappen/head/11.png?lm=1489787850"
+    "photo_url": "https://img.a.transfermarkt.technology/portrait/medium/357662-1687962936.jpg",
+    "flag_url": "https://tmssl.akamaized.net/images/flagge/verysmall/189.png",
+    "team_photo_url": "https://tmssl.akamaized.net/images/wappen/head/11.png"
   },
   {
     "id": 3,
@@ -34,9 +34,9 @@
     "position": "AM",
     "age": 25,
     "shirt_number": 8,
-    "photo_url": "https://img.a.transfermarkt.technology/portrait/medium/316264-1678877651.jpg?lm=1",
-    "flag_url": "https://tmssl.akamaized.net/images/flagge/verysmall/125.png?lm=1520611569",
-    "team_photo_url": "https://tmssl.akamaized.net/images/wappen/head/11.png?lm=1489787850"
+    "photo_url": "https://img.a.transfermarkt.technology/portrait/medium/316264-1678877651.jpg",
+    "flag_url": "https://tmssl.akamaized.net/images/flagge/verysmall/125.png",
+    "team_photo_url": "https://tmssl.akamaized.net/images/wappen/head/11.png"
   },
   {
     "id": 4,
@@ -47,9 +47,9 @@
     "position": "LW",
     "age": 22,
     "shirt_number": 11,
-    "photo_url": "https://img.a.transfermarkt.technology/portrait/medium/655488-1682689091.jpg?lm=1",
-    "flag_url": "https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569",
-    "team_photo_url": "https://tmssl.akamaized.net/images/wappen/head/11.png?lm=1489787850"
+    "photo_url": "https://img.a.transfermarkt.technology/portrait/medium/655488-1682689091.jpg",
+    "flag_url": "https://tmssl.akamaized.net/images/flagge/verysmall/26.png",
+    "team_photo_url": "https://tmssl.akamaized.net/images/wappen/head/11.png"
   },
   {
     "id": 6,
@@ -60,9 +60,9 @@
     "position": "CB",
     "age": 22,
     "shirt_number": 2,
-    "photo_url": "https://img.a.transfermarkt.technology/portrait/header/495666-1684160918.jpg?lm=1",
-    "flag_url": "https://tmssl.akamaized.net/images/flagge/tiny/50.png?lm=1520611569",
-    "team_photo_url": "https://tmssl.akamaized.net/images/wappen/head/11.png?lm=1489787850"
+    "photo_url": "https://img.a.transfermarkt.technology/portrait/header/495666-1684160918.jpg",
+    "flag_url": "https://tmssl.akamaized.net/images/flagge/tiny/50.png",
+    "team_photo_url": "https://tmssl.akamaized.net/images/wappen/head/11.png"
   },
   {
     "id": 7,
@@ -73,9 +73,9 @@
     "position": "CB",
     "age": 26,
     "shirt_number": 6,
-    "photo_url": "https://img.a.transfermarkt.technology/portrait/header/435338-1684162833.jpg?lm=1",
-    "flag_url": "https://tmssl.akamaized.net/images/flagge/tiny/26.png?lm=1520611569",
-    "team_photo_url": "https://tmssl.akamaized.net/images/wappen/head/11.png?lm=1489787850"
+    "photo_url": "https://img.a.transfermarkt.technology/portrait/header/435338-1684162833.jpg",
+    "flag_url": "https://tmssl.akamaized.net/images/flagge/tiny/26.png",
+    "team_photo_url": "https://tmssl.akamaized.net/images/wappen/head/11.png"
   },
   {
     "id": 8,
@@ -86,8 +86,8 @@
     "position": "CB",
     "age": 22,
     "shirt_number": 12,
-    "photo_url": "https://img.a.transfermarkt.technology/portrait/header/420243-1702413077.jpg?lm=1",
-    "flag_url": "https://tmssl.akamaized.net/images/flagge/tiny/122.png?lm=1520611569",
-    "team_photo_url": "https://tmssl.akamaized.net/images/wappen/head/11.png?lm=1489787850"
+    "photo_url": "https://img.a.transfermarkt.technology/portrait/header/420243-1702413077.jpg",
+    "flag_url": "https://tmssl.akamaized.net/images/flagge/tiny/122.png",
+    "team_photo_url": "https://tmssl.akamaized.net/images/wappen/head/11.png"
   },
 ]
