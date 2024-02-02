@@ -58,5 +58,29 @@
     "photo_url": "https://www.example.com/lewandowski.jpg",
     "flag_url": "https://www.example.com/poland_flag.png",
     "team_photo_url": "https://www.example.com/barcelona_team.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Lionel Messi",
+    "country": "Argentina",
+    "league": "Ligue 1",
+    "position": "Forward",
+    "age": 35,
+    "shirt_number": 30,
+    "photo_url": "https://www.example.com/messi.jpg",
+    "flag_url": "https://www.example.com/argentina_flag.png",
+    "team_photo_url": "https://www.example.com/psg_team.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Lionel Messi",
+    "country": "Argentina",
+    "league": "Ligue 1",
+    "position": "Forward",
+    "age": 35,
+    "shirt_number": 30,
+    "photo_url": "https://www.example.com/messi.jpg",
+    "flag_url": "https://www.example.com/argentina_flag.png",
+    "team_photo_url": "https://www.example.com/psg_team.jpg"
   }
 ]
