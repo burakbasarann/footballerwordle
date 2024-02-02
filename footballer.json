@@ -1,0 +1,67 @@
+{
+  "defenders": [
+    {
+      "player_name": "Aaron Ramsdale",
+      "country": "England",
+      "position": "Goalkeeper",
+      "age": 24,
+      "shirt_number": 1
+    },
+    {
+      "player_name": "Takehiro Tomiyasu",
+      "country": "Japan",
+      "position": "Defender",
+      "age": 24,
+      "shirt_number": 18
+    },
+    {
+      "player_name": "Ben White",
+      "country": "England",
+      "position": "Defender",
+      "age": 25,
+      "shirt_number": 4
+    },
+    {
+      "player_name": "Gabriel Magalhaes",
+      "country": "Brazil",
+      "position": "Defender",
+      "age": 25,
+      "shirt_number": 6
+    },
+    {
+      "player_name": "Kieran Tierney",
+      "country": "Scotland",
+      "position": "Defender",
+      "age": 25,
+      "shirt_number": 3
+    },
+    {
+      "player_name": "Oleksandr Zinchenko",
+      "country": "Ukraine",
+      "position": "Defender",
+      "age": 26,
+      "shirt_number": 35
+    },
+    {
+      "player_name": "Cedric Soares",
+      "country": "Portugal",
+      "position": "Defender",
+      "age": 31,
+      "shirt_number": 21
+    },
+    {
+      "player_name": "Rob Holding",
+      "country": "England",
+      "position": "Defender",
+      "age": 27,
+      "shirt_number": 16
+    },
+    {
+      "player_name": "William Saliba",
+      "country": "France",
+      "position": "Defender",
+      "age": 21,
+      "shirt_number": 4
+    }
+  ]
+}
