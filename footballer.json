@@ -1,67 +1,62 @@
-{
-  "defenders": [
-    {
-      "player_name": "Aaron Ramsdale",
-      "country": "England",
-      "position": "Goalkeeper",
-      "age": 24,
-      "shirt_number": 1
-    },
-    {
-      "player_name": "Takehiro Tomiyasu",
-      "country": "Japan",
-      "position": "Defender",
-      "age": 24,
-      "shirt_number": 18
-    },
-    {
-      "player_name": "Ben White",
-      "country": "England",
-      "position": "Defender",
-      "age": 25,
-      "shirt_number": 4
-    },
-    {
-      "player_name": "Gabriel Magalhaes",
-      "country": "Brazil",
-      "position": "Defender",
-      "age": 25,
-      "shirt_number": 6
-    },
-    {
-      "player_name": "Kieran Tierney",
-      "country": "Scotland",
-      "position": "Defender",
-      "age": 25,
-      "shirt_number": 3
-    },
-    {
-      "player_name": "Oleksandr Zinchenko",
-      "country": "Ukraine",
-      "position": "Defender",
-      "age": 26,
-      "shirt_number": 35
-    },
-    {
-      "player_name": "Cedric Soares",
-      "country": "Portugal",
-      "position": "Defender",
-      "age": 31,
-      "shirt_number": 21
-    },
-    {
-      "player_name": "Rob Holding",
-      "country": "England",
-      "position": "Defender",
-      "age": 27,
-      "shirt_number": 16
-    },
-    {
-      "player_name": "William Saliba",
-      "country": "France",
-      "position": "Defender",
-      "age": 21,
-      "shirt_number": 4
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "name": "Lionel Messi",
+    "country": "Argentina",
+    "league": "Ligue 1",
+    "position": "Forward",
+    "age": 35,
+    "shirt_number": 30,
+    "photo_url": "https://www.example.com/messi.jpg",
+    "flag_url": "https://www.example.com/argentina_flag.png",
+    "team_photo_url": "https://www.example.com/psg_team.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Cristiano Ronaldo",
+    "country": "Portugal",
+    "league": "Saudi Professional League",
+    "position": "Forward",
+    "age": 37,
+    "shirt_number": 7,
+    "photo_url": "https://www.example.com/ronaldo.jpg",
+    "flag_url": "https://www.example.com/portugal_flag.png",
+    "team_photo_url": "https://www.example.com/al_nassr_team.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Neymar Jr.",
+    "country": "Brazil",
+    "league": "Ligue 1",
+    "position": "Forward",
+    "age": 31,
+    "shirt_number": 10,
+    "photo_url": "https://www.example.com/neymar.jpg",
+    "flag_url": "https://www.example.com/brazil_flag.png",
+    "team_photo_url": "https://www.example.com/psg_team.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Kylian Mbappé",
+    "country": "France",
+    "league": "Ligue 1",
+    "position": "Forward",
+    "age": 24,
+    "shirt_number": 7,
+    "photo_url": "https://www.example.com/mbappe.jpg",
+    "flag_url": "https://www.example.com/france_flag.png",
+    "team_photo_url": "https://www.example.com/psg_team.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Robert Lewandowski",
+    "country": "Poland",
+    "league": "La Liga",
+    "position": "Forward",
+    "age": 34,
+    "shirt_number": 9,
+    "photo_url": "https://www.example.com/lewandowski.jpg",
+    "flag_url": "https://www.example.com/poland_flag.png",
+    "team_photo_url": "https://www.example.com/barcelona_team.jpg"
+  }
+]
