@@ -1,0 +1,22 @@
+[ 
+  {
+    "id" : 1,
+    "wordle_words" : "aaaaa" 
+  },
+   {
+    "id" : 1,
+    "wordle_words" : "bbbbb" 
+  },
+  {
+    "id" : 1,
+    "wordle_words" : "ccccc" 
+  }, 
+  {
+    "id" : 1,
+    "wordle_words" : "ddddd" 
+  },
+  {
+    "id" : 1,
+    "wordle_words" : "eeeee" 
+  },
+]
