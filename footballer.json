@@ -250,5 +250,47 @@
     "flag_url": "https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569",
     "team_photo_url": "https://tmssl.akamaized.net/images/wappen/head/281.png?lm=1467356331",
     "league_url" : "https://tmssl.akamaized.net/images/logo/homepageNewsLogo80x80/gb1.png?lm=1521104656"
+  },
+  {
+    "id": 19,
+    "name": "Rodri",
+    "team": "Machester City",
+    "country": "Spain",
+    "league": "Premier League",
+    "position": "DM",
+    "age": 27,
+    "shirt_number": 16,
+    "photo_url": "https://img.a.transfermarkt.technology/portrait/header/357565-1682587890.jpg?lm=1",
+    "flag_url": "https://tmssl.akamaized.net/images/flagge/tiny/157.png?lm=1520611569",
+    "team_photo_url": "https://tmssl.akamaized.net/images/wappen/tiny/281.png?lm=1467356331",
+    "league_url" : "https://tmssl.akamaized.net/images/logo/homepageNewsLogo80x80/gb1.png?lm=1521104656"
+  },
+  {
+    "id": 20,
+    "name": "Bruno Guimarães",
+    "team": "Newcastle",
+    "country": "Brazil",
+    "league": "Premier League",
+    "position": "DM",
+    "age": 26,
+    "shirt_number": 39,
+    "photo_url": "https://img.a.transfermarkt.technology/portrait/header/520624-1668522672.jpg?lm=1",
+    "flag_url": "https://tmssl.akamaized.net/images/flagge/tiny/26.png?lm=1520611569",
+    "team_photo_url": "https://tmssl.akamaized.net/images/wappen/tiny/762.png?lm=1472921161",
+    "league_url" : "https://tmssl.akamaized.net/images/logo/homepageNewsLogo80x80/gb1.png?lm=1521104656"
+  },
+  {
+    "id": 21,
+    "name": "Bernardo Silva",
+    "team": "Manchester City",
+    "country": "Portugal",
+    "league": "Premier League",
+    "position": "RW",
+    "age": 29,
+    "shirt_number": 20,
+    "photo_url": "https://img.a.transfermarkt.technology/portrait/header/241641-1684311533.jpg?lm=1",
+    "flag_url": "https://tmssl.akamaized.net/images/flagge/tiny/136.png?lm=1520611569",
+    "team_photo_url": "https://tmssl.akamaized.net/images/wappen/tiny/281.png?lm=1467356331",
+    "league_url" : "https://tmssl.akamaized.net/images/logo/homepageNewsLogo80x80/gb1.png?lm=1521104656"
   }
 ]
