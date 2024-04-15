@@ -1,22 +1,58 @@
 [
   {
     "id": 1,
-    "wordle_words": "AAAAAAAA"
+    "wordle_words": "BERNARDO"
   },
   {
-    "id": 1,
-    "wordle_words": "BBBBBBBB"
+    "id": 2,
+    "wordle_words": "MADDISON"
   },
   {
-    "id": 1,
-    "wordle_words": "CCCCCCCC"
+    "id": 3,
+    "wordle_words": "PALHINHA"
   },
   {
-    "id": 1,
-    "wordle_words": "DDDDDDDD"
+    "id": 4,
+    "wordle_words": "RASHFORD"
   },
   {
-    "id": 1,
-    "wordle_words": "EEEEEEEE"
+    "id": 5,
+    "wordle_words": "WILLIAMS"
+  },
+  {
+    "id": 6,
+    "wordle_words": "FRIMPONG"
+  },
+  {
+    "id": 7,
+    "wordle_words": "GRIMALDO"
+  },
+  {
+    "id": 8,
+    "wordle_words": "SCALVINI"
+  },
+  {
+    "id": 9,
+    "wordle_words": "BAKAYOKO"
+  },
+  {
+    "id": 10,
+    "wordle_words": "TROSSARD"
+  },
+  {
+    "id": 11,
+    "wordle_words": "ANDERSEN"
+  },
+  {
+    "id": 12,
+    "wordle_words": "JANOBLAK"
+  },
+  {
+    "id": 13,
+    "wordle_words": "CHILWELL"
+  },
+  {
+    "id": 14,
+    "wordle_words": "SCHLAGER"
   }
 ]
